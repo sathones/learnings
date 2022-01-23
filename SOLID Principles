@@ -1,0 +1,9 @@
+Single Responsibility Principles - A class should have one and only one reason to change
+
+Open Closed Principles - sw entities should be open to extension but closed for modification.
+
+Liskov's substitution principle - subtypes should be substitutable for their base types. Break the hierarchy & Tell, don't ask.
+
+Interface Segregation Principles - Recommends smaller interfaces to bigger ones. Implementation classes of interfaces should use only the methods that are required, and classes should not be forced to use the methods.
+
+Dependency Inversion Principle  - Code to the abstractions rather to implementations. 
